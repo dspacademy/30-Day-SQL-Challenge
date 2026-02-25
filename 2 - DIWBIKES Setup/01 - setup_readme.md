@@ -128,3 +128,6 @@ Once completed:
 - Data loaded
 
 🎉 **DIWBikes database setup is complete.**
+
+📺 **Watch Demo on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/EnvironmentSetup](https://youtu.be/DPzXfRMdunY)
+https://youtu.be/DPzXfRMdunY
