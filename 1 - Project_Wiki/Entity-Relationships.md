@@ -2,7 +2,7 @@
 
 ## ER Diagram
 
-![DSP-DIWBIKES ER Diagram](_assets/Diagrams/erd.png)
+![DSP-DIWBIKES ER Diagram](_assets/Diagrams/data_model.png)
 
 ## Core Relationships
 
