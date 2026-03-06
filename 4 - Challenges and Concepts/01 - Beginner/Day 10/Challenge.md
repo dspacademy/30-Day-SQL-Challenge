@@ -22,4 +22,4 @@
 | 2024 | Q1      | 794        | Road-250 Black, 48      | Road Bikes               | Bikes                 | 29701       | kirk1@datasolutionsplatform.com          | 11,780.44  |
 | 2024 | Q1      | 791        | Road-250 Red, 52        | Road Bikes               | Bikes                 | 29715       | andrew3@datasolutionsplatform.com        | 11,728.08  |
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://youtu.be/Je81jDMGbLY)

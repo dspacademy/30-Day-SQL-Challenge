@@ -22,4 +22,4 @@
 | 2024 | 29701       | Kirk       | DeGrasse  | kirk1@datasolutionsplatform.com       | 407,000.33  |
 | 2024 | 29617       | Lindsey    | Camacho   | lindsey0@datasolutionsplatform.com    | 367,526.49  |
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://youtu.be/PKfMLP2UNPM)
