@@ -27,7 +27,7 @@
 | 4         | Tool Designer                      |
 |           | Chief Executive Officer            |
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day03Q1](https://youtu.be/1eCv1av6evM)
 
 ### Question 2
 
@@ -48,4 +48,4 @@
 | 12                      | 28           |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day03Q2](https://youtu.be/elGjMKuP42o)

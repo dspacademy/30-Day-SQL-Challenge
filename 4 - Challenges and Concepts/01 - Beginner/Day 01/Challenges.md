@@ -19,7 +19,7 @@
 | 6           | 998320692          | dsp-workshop\jossef0  | Design Engineer  | 2008-01-24  |
 | 15          | 56920285           | dsp-workshop\sharon0  | Design Engineer  | 2011-01-18  |
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day01Q1](https://youtu.be/GD_Uh3zA1LM)
 
 ### Question 2
 
@@ -40,7 +40,7 @@
 | 18          | 222969461          | dsp-workshop\john5     | Marketing Specialist    | 2011-02-07  |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day01Q2](https://youtu.be/YSv-ywo1Aio)
 
 ### Question 3
 
@@ -61,4 +61,4 @@
 | 806        | ML Headset  | HS-2451        | true      | true                 |       | 500                 | 375           | 45.4168       | 102.2900  |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day01Q3](https://youtu.be/R78ALJ5LmgY)

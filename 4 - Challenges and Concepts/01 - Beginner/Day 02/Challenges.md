@@ -22,7 +22,7 @@
 | 281         | 139397894          | dsp-workshop\shu0      | shu0          | Sales Representative             | 2011-05-31 |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day02Q1](https://youtu.be/Xs6pA8tzjas)
 
 
 ### Question 2
@@ -44,7 +44,7 @@
 | 45983          | 10              | 2023-03-26 00:00:00 | 2023-04-07 00:00:00 | 2023-04-02 00:00:00 | 5      | true               | SO45983               |                      | 10-4030-014830            | 14830       |                | 8            | 11422               | 11422               | 1              | 17464          | 131723Vi90731                       |                  | 3578.2700| 286.2616  | 89.4568   | 3953.9884 |         | 38aa7a41-c44a-4b1b-8930-6cac808e0176    | 2023-04-02 00:00:00 |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day02Q2](https://youtu.be/P8FSD2Zg1l8)
 
 
 ### Question 3
@@ -65,4 +65,4 @@
 | 324        | Chain Stays      | CS-2812        | Chain Stays \| CS-2812       | true      | false                |         | 1000                | 750           | 0.0000        | 0.0000    |
 | 952        | Chain            | CH-0234        | Chain \| CH-0234             | false     | true                 | Silver  | 500                 | 375           | 8.9866        | 20.2400   |
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day02Q3](https://youtu.be/aCQ64sy04s4)

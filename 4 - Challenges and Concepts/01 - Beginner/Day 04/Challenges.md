@@ -23,7 +23,7 @@
 | 29614       | 901346.8560    |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day04Q1](https://youtu.be/11Zqh4FmXOA)
 
 
 ### Question 2
@@ -45,4 +45,4 @@
 | 11223       | 27           |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day04Q2](https://youtu.be/oHI_mgSCcSQ)

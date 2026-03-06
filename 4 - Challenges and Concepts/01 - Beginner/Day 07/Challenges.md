@@ -25,7 +25,7 @@
 | 7872      |       | Kimberly   | A           | Watson       | kimberly3@datasolutionsplatform.com   | 16917      | 2               | 1359 Montgomery Avenue    |               | Langford    | 7                  | V9          |
 | 7929      |       | Kimberly   | L           | Brooks       | kimberly4@datasolutionsplatform.com   | 16975      | 2               | 1526 Green Road           |               | West Covina | 9                  | 91791       |
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day07](https://youtu.be/tcgJ8armabA)
 
 
 ### Question 2
@@ -47,4 +47,4 @@
 | 319       | Ms.   | Kim        |             | Akers        | kim3@datasolutionsplatform.com        |            |                 |                           |               |             |                    |             |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day07](https://youtu.be/tcgJ8armabA)
