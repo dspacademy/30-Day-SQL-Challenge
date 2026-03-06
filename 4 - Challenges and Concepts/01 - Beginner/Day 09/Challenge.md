@@ -20,7 +20,7 @@
 | 2                   | Components | Road Frames       | 33              |
 | 2                   | Components | Mountain Frames   | 28              |
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://youtu.be/Zj_q1tA_Mfc)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day09Q1](https://youtu.be/Zj_q1tA_Mfc)
 
 ### Question 2
 
@@ -41,4 +41,4 @@
 | 2                   | Components | Handlebars       | 1,010        | 7            | 3,950          |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://youtu.be/fv-QYP2XgxE)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day09Q2](https://youtu.be/fv-QYP2XgxE)
