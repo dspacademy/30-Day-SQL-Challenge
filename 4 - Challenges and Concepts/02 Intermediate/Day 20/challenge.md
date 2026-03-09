@@ -33,4 +33,4 @@
 | 30114       | AW00030114     |
 
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day20](https://youtu.be/3O9q4btuMQg)

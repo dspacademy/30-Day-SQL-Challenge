@@ -21,4 +21,4 @@
 | 12462       | 8            | Levi       | Suri      | levi0@datasolutionsplatform.com        |
 | 12475       | 8            | Logan      | Carter    | logan36@datasolutionsplatform.com      |
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day18](https://youtu.be/ebJ8Ag8K1KY)

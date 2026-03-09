@@ -40,4 +40,4 @@
 | 30039       | 3            | Robert     | Stotka    | robert12@datasolutionsplatform.com   |
 
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day19](https://youtu.be/xGpOWvFlmB0)

@@ -29,4 +29,4 @@ These category‑level signals drive better assortment management, revenue growt
 | Accessories      | 24                     | 32,245               | 28,393.85            |
 
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day15](https://youtu.be/uTSc1JVQtEs)
