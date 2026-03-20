@@ -37,4 +37,4 @@ Functions:
 | 11006 | 2024-10-13 00:00:00 | 2634.3974 | 20 | 19 | 7 | 2 |
 ``
 
-📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform](https://www.youtube.com/@DataSolutionPlatform)
+📺 **Watch solution on YouTube:** [https://www.youtube.com/@DataSolutionPlatform/Day26](https://youtu.be/6z1AidO08_0)
